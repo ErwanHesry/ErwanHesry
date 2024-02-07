@@ -25,6 +25,6 @@ I do share lots of photographies on Unsplash. Here are some of them:
 
 If you are curious about stats, here are mine:
 <!-- UNSPLASH-STATS:START -->
-- **Views**: 298,502,898
-- **Downloads**: 1,712,478
+- **Views**: 298,506,350
+- **Downloads**: 1,712,493
 <!-- UNSPLASH-STATS:END -->
